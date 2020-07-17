@@ -1,0 +1,6 @@
+#grad1 {
+    height: 200px;
+    width: 250px;
+    justify-content: center;
+    background-image: radial-gradient(#26deff, #ffbbee, rgb(119, 0, 255));
+  }

@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+.circle{
+    width: 150px;
+    padding: 50px;
+    margin: 60px;
+    background: palevioletred;
+    color: white;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background 1s, transform 0.3s;
+}
+.circle:hover{
+
+    background-color: purple;
+    transform: rotate(360deg);
+}
